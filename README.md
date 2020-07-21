@@ -1,4 +1,4 @@
-![Drewbi's github stats](https://github-readme-stats.vercel.app/api?username=drewbi&theme=prussian&show_icons=true)
+![Drewbi's github stats](https://github-readme-stats.vercel.app/api?username=drewbi&theme=prussian&show_icons=true&hide_rank=true)
 
 <details>
 <summary>
