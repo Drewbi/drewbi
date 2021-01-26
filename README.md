@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/drewbi/drewbi/master/banner.svg)
+![Banner](https://raw.githubusercontent.com/drewbi/drewbi/master/welcomebanner.svg)
 
 **I'm Drew**
 
