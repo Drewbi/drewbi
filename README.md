@@ -1,24 +1,36 @@
-**Hello**
+![Welcome Banner](https://raw.githubusercontent.com/drewbi/drewbi/master/dotwelcomelarge.svg)
+
+**I'm Drew**
+
+I'm in the business of creating things. I hope you enjoy them.
 
 <details>
 <summary>
-  No click
+  Please Don't Click
 </summary>
 <details>
 <summary>
-  No click
+  Refrain from clicking
 </summary>
 <details>
 <summary>
-  Stop ples
+  Stop aha
 </summary>
 <details>
 <summary>
-  Haha ok
+  oops haha no more :)
 </summary>
 <details>
 <summary>
-  Keep going
+  Oh all right you can have this one
+</summary>
+<details>
+<summary>
+  Alright now stop
+</summary>  
+<details>
+<summary>
+  Still going?
   </summary>
 <details>
 <summary>
